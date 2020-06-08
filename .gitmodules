@@ -1,0 +1,15 @@
+[submodule "eddy-automl-backend"]
+	path = eddy-automl-backend
+	url = git@github.com:EddyAnalytics/eddy-automl-backend.git
+[submodule "eddy-automl-ui"]
+	path = eddy-automl-ui
+	url = git@github.com:EddyAnalytics/eddy-automl-ui.git
+[submodule "eddy-automl"]
+	path = eddy-automl
+	url = git@github.com:EddyAnalytics/eddy-automl.git
+[submodule "eddy-kafka-graphql-bridge"]
+	path = eddy-kafka-graphql-bridge
+	url = git@github.com:EddyAnalytics/eddy-kafka-graphql-bridge.git
+[submodule "eddy-automl-charts"]
+	path = eddy-automl-charts
+	url = git@github.com:EddyAnalytics/eddy-automl-charts.git
