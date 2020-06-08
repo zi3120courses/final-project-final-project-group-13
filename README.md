@@ -1,1 +1,1 @@
-# final-project-final-project-group-13
+# Final Project - Eddy AutoML - Group 13
